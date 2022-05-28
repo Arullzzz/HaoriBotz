@@ -35,7 +35,7 @@ gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/Fh0eaf7IuuG3i67wXRC1O8', ''] // ganti jadi group lu
 global.owner = ['6285822347348'] // Put your number here //owner eval
-global.kontak = ['6285822347348','6282186172016'] //Ketika ada yang ngetik #owner
+global.kontak = ['6285822347348','6285822347348'] //Ketika ada yang ngetik #owner
 global.mods = ['6285822347348'] // Want some help?
 global.prems = ['6285822347348'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -85,10 +85,10 @@ global.packname = '▧ArullBotz' // ganti aja
 global.author = '© Arull' // ganti aja
 
 //yyy
-bc = 'Ħασяιвσтʓ' //King Of Bear Broadcast
+bc = 'ArullBotzʓ' //King Of Bear Broadcast
 footer = '\nHᴀᴏʀɪBᴏᴛᴢ 🔭'
-namabot = '𝙷𝚊𝚘𝚛𝚒 𝙱𝚘𝚝𝚣 🐾'
-namalu = 'Zivfurr'
+namabot = 'ArullBotz' 🐾'
+namalu = 'Arull'
 global.botwm = `Arull 🐾`//UBAH JADI NAMAMU
 
 
