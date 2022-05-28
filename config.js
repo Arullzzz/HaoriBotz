@@ -72,7 +72,7 @@ leyskey = 'dappakntlll'
 bearkey = 'buy'
 
 //xteam        MIMINETBOT
-namaig = 'https://instagram.com/sahrulwara_____'
+namaig = 'https://instagram.com/'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
 namakontak1 = ''
@@ -85,10 +85,10 @@ global.packname = '▧ArullBotz' // ganti aja
 global.author = '© Arull' // ganti aja
 
 //yyy
-bc = 'ArullBotzʓ' //King Of Bear Broadcast
+bc = 'ʓ' //King Of Bear Broadcast
 footer = '\nHᴀᴏʀɪBᴏᴛᴢ 🔭'
-namabot = 'ArullBotz' 🐾'
-namalu = 'Arull'
+namabot = '' 🐾'
+namalu = ''
 global.botwm = `Arull 🐾`//UBAH JADI NAMAMU
 
 
